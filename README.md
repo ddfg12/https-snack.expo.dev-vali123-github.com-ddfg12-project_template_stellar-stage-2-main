@@ -1,1 +1,1 @@
-# https-snack.expo.dev-vali123-github.com-ddfg12-project_template_stellar-stage-2-main
+project_template_stellar-stage-2-main
